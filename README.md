@@ -13,6 +13,6 @@ This is a simple **Diabetes Prediction System** built using **Python** and **Mac
 - scikit-learn
 
 ## How to Run
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/your-username/diabetes-prediction.git
